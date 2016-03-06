@@ -1,0 +1,140 @@
+[
+  {
+    "input": "oreRedstone",
+    "output": "minecraft:redstone:0",
+    "qty": 6,
+    "outputSecondary": "minecraft:redstone:0"
+  },
+  {
+    "input": "oreLapis",
+    "output": "minecraft:dye:4",
+    "qty": 6,
+    "outputSecondary": "minecraft:dye:4"
+  },
+  {
+    "input": "rodBlaze",
+    "output": "minecraft:blaze_powder:0",
+    "qty": 5,
+    "outputSecondary": "minecraft:blaze_powder:0"
+  },
+  {
+    "input": "cobblestone",
+    "output": "minecraft:sand:0",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "minecraft:bone:0",
+    "output": "minecraft:dye:15",
+    "qty": 4,
+    "outputSecondary": "minecraft:dye:15"
+  },
+  {
+    "input": "oreQuartz",
+    "output": "minecraft:quartz:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:quartz:0"
+  },
+  {
+    "input": "minecraft:clay:0",
+    "output": "minecraft:clay_ball:0",
+    "qty": 4,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreDiamond",
+    "output": "minecraft:diamond:0",
+    "qty": 2,
+    "outputSecondary": "minecraft:diamond:0"
+  },
+  {
+    "input": "oreEmerald",
+    "output": "minecraft:emerald:0",
+    "qty": 2,
+    "outputSecondary": "minecraft:emerald:0"
+  },
+  {
+    "input": "glowstone",
+    "output": "minecraft:glowstone_dust:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:glowstone_dust:0"
+  },
+  {
+    "input": "oreCoal",
+    "output": "minecraft:coal:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:coal:0"
+  },
+  {
+    "input": "minecraft:wool:0",
+    "output": "minecraft:string:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:string:0"
+  },
+  {
+    "input": "blockGlass",
+    "output": "minecraft:sand:0",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "gravel",
+    "output": "minecraft:flint:0",
+    "qty": 1,
+    "outputSecondary": "minecraft:flint:0"
+  },
+  {
+    "input": "ingotIron",
+    "output": "neotech:dustIron:0",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotGold",
+    "output": "neotech:dustGold:0",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreGold",
+    "output": "neotech:dustGold:0",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreIron",
+    "output": "neotech:dustIron:0",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreCopper",
+    "output": "neotech:dustCopper:0",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "oreTin",
+    "output": "neotech:dustTin:0",
+    "qty": 2,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotCopper",
+    "output": "neotech:dustCopper:0",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotTin",
+    "output": "neotech:dustTin:0",
+    "qty": 1,
+    "outputSecondary": ""
+  },
+  {
+    "input": "ingotBronze",
+    "output": "neotech:dustBronze:0",
+    "qty": 1,
+    "outputSecondary": ""
+  }
+]

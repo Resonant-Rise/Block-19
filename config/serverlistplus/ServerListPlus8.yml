@@ -1,0 +1,131 @@
+#      _____                     __    _     _   _____ _
+#     |   __|___ ___ _ _ ___ ___|  |  |_|___| |_|  _  | |_ _ ___
+#     |__   | -_|  _| | | -_|  _|  |__| |_ -|  _|   __| | | |_ -|
+#     |_____|___|_|  \_/|___|_| |_____|_|___|_| |__|  |_|___|___|
+#
+# ServerListPlus v3.4.1-SNAPSHOT - http://git.io/slp
+
+# More information is available in the Wiki: http://git.io/slp-wiki
+
+
+# This is the section where you can customize your server status ping!
+#  - Default is the section for the status used when the player name is unknown.
+#    Personalized is used if the client has already joined the server once.
+#    Use %player% as placeholder for the player's name.
+#
+# Features:
+#  - Description (MotD): A short status message for your server, max. 2 lines.
+#  - Players:
+#    - Hover: The player hover message that is displayed if you hover the player count.
+#    - Slots: Custom player slot formatting, see http://git.io/slp-slots
+#  - Favicon:
+#    - Use multiple server icons or the player's head as favicon, see http://git.io/oMhJlg
+#    - Possible favicon sources: Files, Folders, URLs, Heads, Helms, Encoded
+#
+#  More features are explained in the Wiki: http://git.io/slp-config
+#
+# Usage:
+#  - Add multiple entries for random messages.
+#  - Save the file with valid UTF-8 encoding for special characters.
+#  - Available placeholders:
+#    - Player name: %player%
+#    - Player count: %online%, %max%, %online@server% %online@world%
+#    - Random online player name: %random_player%
+--- !Status
+Default:
+  Description:
+  - |-
+    &6&lState of Sponge &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &b&oEverything's better with &a&oBeta!
+  - |-
+    &6&lState of Sponge &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &b&oThe center of attention is &d&l&oHERE!
+  - |-
+    &6&lState of Sponge &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &a&oSponge &b&oBeta &c&oPlugin &d&oExtravaganza!
+  - |-
+    &6&lState of Sponge &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &b&oFor your entertainment, may we present: &6&oSPONGE!
+  - |-
+    &6&lState of Sponge &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &b&o100+% better with &a&oBeta! &8&o&mThis space for rent.
+  - |-
+    &6&lState of Sponge &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &b&oA Special-High-Intensity-Ton of features!
+  Players:
+    Hover:
+    - |-
+      &bCongratulations!
+      &7You've been drafted!
+      &7Report to Espernet IRC channel #sponge
+      &7for your first assignment!
+
+Personalized:
+  Description:
+  - |-
+    &bWe meet again &a%player%&b, this is &6&lSOS &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &7&oShiver me Timbers! Welcome back to the crew!
+  - |-
+    &bWe meet again &a%player%&b, this is &6&lSOS &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &7&oShiver me Timbers! Welcome back matey!
+  - |-
+    &bWe meet again &a%player%&b, this is &6&lSOS &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &7&oAnd may the FLARD be with you.
+  - |-
+    &bWe meet again &a%player%&b, this is &6&lSOS &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &7&oDo ye remember where ye buried yer treasure?
+  - |-
+    &bWe meet again &a%player%&b, this is &6&lSOS &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &7&oWe kept a jug'o FLARD aside for ya.
+  - |-
+    &bWe meet again &a%player%&b, this is &6&lSOS &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &7&oRecovered from yer keelhauling so soon?!
+  - |-
+    &bWe meet again &a%player%&b, this is &6&lSOS &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &7&oBack for more eh? We have more. Shiploads of it.
+  - |-
+    &bWe meet again &a%player%&b, this is &6&lSOS &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &7&oWe kept yer deck chair warm for ya.
+  - |-
+    &bWe meet again &a%player%&b, this is &6&lSOS &c&lE&6&li&e&lg&a&lh&b&lt&d&l!
+    &7&oYer just in time. Hoist the mainsail!
+
+  Players:
+    Hover:
+    - |-
+      &bCongratulations, &l%player%&b!
+      &7You've been drafted!
+      &7Report to Espernet IRC channel #sponge
+      &7for your first assignment!
+
+# Stats: Enable/disable sending plugin statistics.
+# PlayerTracking: Enable/disable tracking of player names to their IP-Addresses.
+#   - Persistence can be disabled with the toggle in the Storage section.
+# Samples: Toggle using multiple player infos for the player hover message.
+#     May prevent the annoying ... and x more ... message for bigger servers
+#     DynamicPlayers is special and aligns the number with the number of
+#     random players used in placeholders.
+# Unknown: Placeholder replacement if the real value is unknown.
+# Favicon: Options for the creation / downloading of favicons:
+#  - RecursiveFolderSearch: Also search for favicons in sub directories.
+#  - SkinSource: The URL to get the Minecraft Skins from. (%s -> player name)
+#  - ResizeStrategy: The strategy used to resize too small or too big favicons.
+#      NONE (keep them as is, will probably fail), SCALE (scale them to the correct size)
+--- !Plugin
+Stats: true
+PlayerTracking:
+  Enabled: true
+  Storage: !JSONStorage
+    Enabled: true
+    SaveDelay: 5m
+Samples:
+  Multiple: false
+  DynamicPlayers: false
+Unknown:
+  PlayerName: player
+  PlayerCount: ???
+Favicon:
+  Timeout: 10s
+  RecursiveFolderSearch: false
+  ResizeStrategy: SCALE
+

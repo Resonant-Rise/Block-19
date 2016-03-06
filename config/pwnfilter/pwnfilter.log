@@ -1,0 +1,11 @@
+[2016/01/07 11:53:43] Created directory: /home/minecraft/sos8-server/config/pwnfilter/rules
+[2016/01/07 11:53:43] Created directory: /home/minecraft/sos8-server/config/pwnfilter/textfiles
+[2016/01/07 11:53:43] Created file from template: sign.txt
+[2016/01/07 11:53:43] File not found: chat.txt. Aborting parsing.
+[2016/01/07 11:53:43] Activated SignListener with Priority Setting: LAST Rule Count: 0
+[2016/01/07 11:53:43] Created file from template: chat.txt
+[2016/01/07 11:53:43] Activated PlayerListener with Priority Setting: LAST Rule Count: 3
+[2016/01/07 11:53:43] Created file from template: console.txt
+[2016/01/07 11:53:43] Created file from template: command.txt
+[2016/01/07 11:53:43] Activated CommandListener with Priority Setting: LAST Rule Count: 7
+[2016/01/07 11:53:43] EconomyService found. Enabling actions requiring EconomyService
