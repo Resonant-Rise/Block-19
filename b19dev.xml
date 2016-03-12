@@ -352,7 +352,39 @@
              description="Waila (What Am I Looking At) is a UI improvement mod aimed at providing block information directly ingame."
              />
 
-        <!-- Client Mods -->
+        <mod name="FTBLib"
+             version="1.8.9-2.0.2" url="packs/Block19/files/1-8_Mods/FTBLib-1.8.9-2.0.2.jar" file="FTBLib-1.8.9-2.0.2.jar" md5="d4674cd5f900e4b980ce334e1e692399" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/projects/ftblib"
+             authors="LatvianModder,Jared"
+             description="FTBLib"
+             />
+
+        <mod name="FTBUtilities"
+             version="1.8.9-2.0.2" url="packs/Block19/files/1-8_Mods/FTBUtilities-1.8.9-2.0.2.jar" file="FTBUtilities-1.8.9-2.0.2.jar" md5="68343790f5c5db7ea3f01a8dcf1fd3d9" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/projects/ftb-utilities"
+             authors="LatvianModder"
+             description="FTBUtilities"
+             />
+
+        <mod name="Psi"
+             version="beta-19" url="packs/Block19/files/1-8_Mods/Psi-beta-19.jar" file="Psi-beta-19.jar" md5="739b1ac936cdf830fc8477662e98f763" download="server"
+             type="mods"
+             website="http://www.vazkii.us"
+             authors="Vazkii"
+             description="Psionic SpellCasting Instruments"
+             />
+
+        <mod name="Intangible"
+             version="1.8.9-0.0.25" url="packs/Block19/files/1-8_Mods/intangible-1.8.9-0.0.25.jar" file="intangible-1.8.9-0.0.25.jar" md5="85fcd85908f65256f2539b8bc2cb7fde" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/241350/"
+             authors="Emoniph"
+             description="Music for the Soul"
+             />
+
+<!-- Client Mods -->
 
         <mod name="=== Client Mod ===" version="1.0"
              url="packs/Block19/files/utility_files/spacer.zip" file="spacer.zip" md5="197772a232ad0dc5ec8e3f76dc248db4" download="server"
@@ -370,7 +402,7 @@
              description="Client Only Mods."
              />
 
-        <!-- Dev Only -->
+<!-- Dev Only -->
 
         <mod name="=== Dev Only ===" version="1.0"
              url="packs/Block19/files/utility_files/spacer.zip" file="spacer.zip" md5="197772a232ad0dc5ec8e3f76dc248db4" download="server"
