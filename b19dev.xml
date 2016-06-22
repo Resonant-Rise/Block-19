@@ -111,7 +111,13 @@
              description="Client Only Mods."
              />
         
-        <mod name="Actually Additions" version="1.9.4-r45" url="packs/Block19/files/ActuallyAdditions-1.9.4-r45.jar" file="ActuallyAdditions-1.9.4-r45.jar" md5="164f9c1c651c3f9630117086de6e874e" download="server" type="mods" website="http://github.com/Ellpeck/ActuallyAdditions" authors="Ellpeck" description="Do you want Automation? Wireless Transport? Better Machines? A cup o&apos; Coffee? Chests? Better Hoppers? Leaf Blowers? Faster Growth? Plants? Well, Actually Additions has all that and a lot more!" />
+        <mod
+             name="Actually Additions" version="1.9.4-r45" url="packs/Block19/files/ActuallyAdditions-1.9.4-r45.jar" file="ActuallyAdditions-1.9.4-r45.jar" md5="164f9c1c651c3f9630117086de6e874e" download="server"
+             type="mods"
+             website="http://github.com/Ellpeck/ActuallyAdditions"
+             authors="Ellpeck"
+             description="Do you want Automation? Wireless Transport? Better Machines? A cup o&apos; Coffee? Chests? Better Hoppers? Leaf Blowers? Faster Growth? Plants? Well, Actually Additions has all that and a lot more!"
+             />
         
         <mod name="AppleCore" version="" url="packs/Block19/files/AppleCore-mc1.9.4-1.3.4.jar" file="AppleCore-mc1.9.4-1.3.4.jar" md5="3bd6d62c957ac7e99fc5645b8b46ec01" download="server" type="mods" website="http://www.curseforge.com/projects/224472/" authors="squeek502" description="An API for modifying the food and hunger mechanics of Minecraft" />
         
