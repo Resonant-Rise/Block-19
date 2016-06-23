@@ -88,7 +88,7 @@
 
         <mod name="Baubles" version="1.9.4-1.2.1.0" 
              url="packs/Block19/files/Baubles-1.9.4-1.2.1.0.jar" file="Baubles-1.9.4-1.2.1.0.jar" md5="47ca37ca2019bb4f143a1e9be06911d3" download="server" 
-             type="mods" exttractto="root"
+             type="mods" extractto="root"
              website="http://www.minecraftforum.net/topic/2535073-baubles" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/baubles?gameCategorySlug=mc-mods&amp;projectID=227083&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=leon%40imaginet.co.za&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:" 
              authors="Azanor" 
              description="Adding a touch of bling to Minecraft" 
