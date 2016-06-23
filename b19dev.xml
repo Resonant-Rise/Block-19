@@ -604,7 +604,7 @@
              name="Roguelike Dungeons"
              version="1.5.2" url="packs/Block19/files/RoguelikeDungeons-1.9.4-1.5.2.jar" file="RoguelikeDungeons-1.9.4-1.5.2.jar" md5="7c61db8090d6d2ca8b755a21973982dc" download="server"
              type="mods"
-             website="github.com/Greymerk/minecraft-roguelike"
+             website="https://github.com/Greymerk/minecraft-roguelike"
              authors="Greymerk"
              description="Adds randomized dungeons to the world"
              />
