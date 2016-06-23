@@ -620,6 +620,7 @@
              description="Druidic Magic Mod"
              />
 
+<!--
         <mod
              name="Realistic Terrain Generation"
              version="2.0.0-alpha.5" url="packs/Block19/files/RTG-1.9.4-2.0.0-alpha.5.jar" file="RTG-1.9.4-2.0.0-alpha.5.jar" md5="1d31e5cbe2afc1f251ee8289e6aa78e2" download="server"
@@ -628,6 +629,7 @@
              authors="WhichOnesPink"
              description="Adds a new world type which generates realistic terrain for Overworld biomes."
              />
+-->
 
         <mod
              name="ShetiPhian-Core"
