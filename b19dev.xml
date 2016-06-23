@@ -393,6 +393,7 @@
              description="Simple recipe and item helper."
              />
 
+<!--
         <mod
              name="Levels"
              version="r3.0.5" url="packs/Block19/files/Levels-1.9.4-r3.0.5.jar" file="Levels-1.9.4-r3.0.5.jar" md5="f05763123581bf8105f62c5f3dbb2603" download="server"
@@ -401,6 +402,7 @@
              authors="TheXFactor117"
              description="A new, innovative leveling mod, focused around leveling up weapons to gain unique boosts."
              />
+-->
 
         <mod
              name="LunatriusCore"
