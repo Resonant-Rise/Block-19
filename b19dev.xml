@@ -888,7 +888,7 @@
         <mod
              name="Morpheus"
              version="1.9.4-3.1.5" url="packs/Block19/files/Morpheus-1.9.4-3.1.5.jar" file="Morpheus-1.9.4-3.1.5.jar" md5="383b10f52a83a8b869f959e320090728" download="server"
-             type="mods" optional="yes" server="yes"
+             type="mods" server="yes"
              website="http://www.curse.com/mc-mods/Minecraft/morpheus" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=5AH8F9SRGY8HA&amp;item_name=Morpheus+(from+curseforge.com)&amp;cmd=_s-xclick"
              authors="Quetzi"
              description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate."
