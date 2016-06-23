@@ -154,7 +154,7 @@
              name="BD Lib"
              version="1.11.0.1" url="packs/Block19/files/bdlib-1.11.0.1-mc1.9.4.jar" file="bdlib-1.11.0.1-mc1.9.4.jar" md5="4b0187538fe41c117d35aeca021170d1" download="server"
              type="mods"
-             website="bdew.net/mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bdlib?gameCategorySlug=mc-mods&amp;projectID=70496&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonH"
+             website="https://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bdlib?gameCategorySlug=mc-mods&amp;projectID=70496&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonH"
              authors="bdew"
              description="A library of generic code for my other mods"
              />
@@ -532,7 +532,7 @@
              name="Pressure Pipes"
              version="1.3.1.1" url="packs/Block19/files/pressure-1.3.1.1-mc1.9.4.jar" file="pressure-1.3.1.1-mc1.9.4.jar" md5="fb9a9bdafcdfc859357ec835ee758e47" download="server"
              type="mods"
-             website="htts://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pressure-pipes?gameCategorySlug=mc-mods&amp;projectID=221214&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
+             website="https://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pressure-pipes?gameCategorySlug=mc-mods&amp;projectID=221214&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
              authors="bdew"
              description="Unlimited Fluid Transport"
              />
