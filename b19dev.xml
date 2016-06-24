@@ -358,6 +358,15 @@
              />
 
         <mod
+             name="Graves Mod"
+             version="1.9.4-b2-universal" url="packs/Block19/files/graves-1.9.4-b2-universal.jar" file="graves-1.9.4-b2-universal.jar" md5="4b3718291b16ba44547b7e10be455f01" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/240877/"
+             authors="FireBall1725,FusionLord"
+             description="Provides grave stones with your items in it upon death"
+             />
+
+        <mod
              name="HelpFixer"
              version="1.3.14" url="packs/Block19/files/HelpFixer-1.9.4-1.3.14.jar" file="HelpFixer-1.9.4-1.3.14.jar" md5="21b897798a2cdcc70d69f903c661bff8" download="server"
              type="mods"
@@ -519,6 +528,15 @@
              website="https://github.com/gigaherz/PackingTape" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/packing-tape?gameCategorySlug=mc-mods&amp;projectID=238659&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=gigaherz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG."
              authors="gigaherz"
              description="Adds a simple means to carry thigns with you"
+             />
+
+        <mod
+             name="Pam&apos;s HarvestCraft"
+             version="1.9.4b" url="packs/Block19/files/Pams HarvestCraft 1.9.4b.jar" file="Pams HarvestCraft 1.9.4b.jar" md5="cdb9c7f777f133c860818bd389646fcb" download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/members/MatrexsVigil/projects" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pams-harvestcraft?gameCategorySlug=mc-mods&amp;projectID=221857&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=worldofro%40gmail.com&amp;bn=PP-DonationsBF:btn_donate"
+             authors="Pamela Collins"
+             description="Expanding minecraft&apos;s food system."
              />
 
         <mod
