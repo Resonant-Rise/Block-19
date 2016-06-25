@@ -96,16 +96,6 @@
              authors="RR Dev Team"
              description="Client Only Mods."
              />
-        
-        <mod
-             name="SpongeForge"
-             version="1.9.4-1968-5.0.0-BETA-1494"
-             url="packs/Block19/files/spongeforge-1.9.4-1968-5.0.0-BETA-1494.jar" file="spongeforge-1.9.4-1968-5.0.0-BETA-1494.jar" md5="8bb2cbcc1aaf845e90bca3356126e1c4" download="server"
-             type="mods" server="yes"
-             website="https://www.spongepowered.org"
-             authors="SpongePowered"
-             description="The Sponge API Implementation"
-             />
 
         <mod
              name="Actually Additions"
@@ -896,13 +886,31 @@
 
 <!--        Server Only Mods-->
 
+        <mod name="=== Server Mod ===" version="1.0"
+             url="packs/Block19/files/utility_files/spacer.zip" file="spacer.zip" md5="197772a232ad0dc5ec8e3f76dc248db4" download="server"
+             type="extract" extractto="root" optional="yes" recommended="no" client="no"
+             website="http://resonant-rise.com"
+             authors="RR Dev Team"
+             description="Client Only Mods."
+             />
+
         <mod
              name="Morpheus"
              version="1.9.4-3.1.5" url="packs/Block19/files/Morpheus-1.9.4-3.1.5.jar" file="Morpheus-1.9.4-3.1.5.jar" md5="383b10f52a83a8b869f959e320090728" download="server"
-             type="mods" server="yes"
+             type="mods" server="yes" client="no"
              website="http://www.curse.com/mc-mods/Minecraft/morpheus" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=5AH8F9SRGY8HA&amp;item_name=Morpheus+(from+curseforge.com)&amp;cmd=_s-xclick"
              authors="Quetzi"
              description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate."
+             />
+
+        <mod
+             name="SpongeForge"
+             version="1.9.4-1968-5.0.0-BETA-1494"
+             url="packs/Block19/files/spongeforge-1.9.4-1968-5.0.0-BETA-1494.jar" file="spongeforge-1.9.4-1968-5.0.0-BETA-1494.jar" md5="8bb2cbcc1aaf845e90bca3356126e1c4" download="server"
+             type="mods" server="yes" client="no"
+             website="https://www.spongepowered.org"
+             authors="SpongePowered"
+             description="The Sponge API Implementation"
              />
 
 
