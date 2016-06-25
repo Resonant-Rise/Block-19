@@ -152,7 +152,7 @@
 
         <mod
              name="BD Lib"
-             version="1.11.0.1" url="packs/Block19/files/bdlib-1.11.0.1-mc1.9.4.jar" file="bdlib-1.11.0.1-mc1.9.4.jar" md5="4b0187538fe41c117d35aeca021170d1" download="server"
+             version="1.12.0.2" url="packs/Block19/files/bdlib-1.12.0.2-mc1.9.4.jar" file="bdlib-1.12.0.2-mc1.9.4.jar" md5="b8730915460a4b89ee067b48bbd42cc1" download="server"
              type="mods"
              website="https://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bdlib?gameCategorySlug=mc-mods&amp;projectID=70496&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonH"
              authors="bdew"
@@ -161,7 +161,7 @@
 
         <mod
              name="Blood Magic: Alchemical Wizardry"
-             version="1.9.4-2.0.1-44" url="packs/Block19/files/BloodMagic-1.9.4-2.0.1-44.jar" file="BloodMagic-1.9.4-2.0.1-44.jar" md5="9f5ea15e1bf18fe81f22d49d6737cd67" download="server"
+             version="1.9.4-2.0.2-46" url="packs/Block19/files/BloodMagic-1.9.4-2.0.2-46.jar" file="BloodMagic-1.9.4-2.0.2-46.jar" md5="d3cf15cb639c763812c0bc1dfff7b277" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1899223-bloodmagic"
              authors="WayofTime"
@@ -179,7 +179,7 @@
 
         <mod
              name="Bookshelf"
-             version="1.9.4-1.2.3.278" url="packs/Block19/files/Bookshelf-1.9.4-1.2.3.278.jar" file="Bookshelf-1.9.4-1.2.3.278.jar" md5="0637d6dfe7fc3df1dba5ea3e4838b85f" download="server"
+             version="1.9.4-1.2.3.279" url="packs/Block19/files/Bookshelf-1.9.4-1.2.3.279.jar" file="Bookshelf-1.9.4-1.2.3.279.jar" md5="1acd686ec6ea68aa5255dd2d19b538fe" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/bookshelf" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bookshelf?gameCategorySlug=mc-mods&amp;projectID=228525&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=darklime%40live.ca&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:N"
              authors="darkhax,lclc98"
@@ -197,7 +197,7 @@
 
         <mod
              name="Chameleon"
-             version="1.9-2.1.4" url="packs/Block19/files/Chameleon-1.9-2.1.4.jar" file="Chameleon-1.9-2.1.4.jar" md5="fe9e6d0c1a546c8bbfaf568cb1aa9cc8" download="server"
+             version="1.9.4-2.1.5" url="packs/Block19/files/Chameleon-1.9.4-2.1.5.jar" file="Chameleon-1.9.4-2.1.5.jar" md5="14a0d656e102792631cb07acdc7592ca" download="server"
              type="mods"
              website="http://www.jaquadro.com/"
              authors="jaquadro"
@@ -206,7 +206,7 @@
 
         <mod
              name="Chisels &amp; Bits"
-             version="10.7" url="packs/Block19/files/chiselsandbits-10.7.jar" file="chiselsandbits-10.7.jar" md5="c0f93a8a0ed1c9d014999c1219aa91b3" download="server"
+             version="10.9" url="packs/Block19/files/chiselsandbits-10.9.jar" file="chiselsandbits-10.9.jar" md5="5a3d1662788cd1dc30f93ae235cd8463" download="server"
              type="mods"
              website="http://minecraft.curseforge.com/projects/chisels-bits" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/chisels-bits?gameCategorySlug=mc-mods&amp;projectID=231095&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=algorithmx2%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_"
              authors="AlgorithmX2"
@@ -278,7 +278,7 @@
 
         <mod
              name="Ender IO"
-             version="1.9.4-3.0.0.43_alpha" url="packs/Block19/files/EnderIO-1.9.4-3.0.0.43_alpha.jar" file="EnderIO-1.9.4-3.0.0.43_alpha.jar" md5="ac0b6f72831aa45c9a04082e66108e5a" download="server"
+             version="1.9.4-3.0.0.46_alpha" url="packs/Block19/files/EnderIO-1.9.4-3.0.0.46_alpha.jar" file="EnderIO-1.9.4-3.0.0.46_alpha.jar" md5="479d5c4bc735af51276b73141f6b5e62" download="server"
              type="mods"
              website="http://enderio.com"
              authors="CrazyPants,tterrag,HenryLoenwind,MatthiasM,CyanideX"
@@ -287,7 +287,7 @@
 
         <mod
              name="EnderTanks"
-             version="1.9.4-1.3.5" url="packs/Block19/files/endertanks-1.9.4-1.3.5.jar" file="endertanks-1.9.4-1.3.5.jar" md5="bf49169db2f0805d2c02caedac68d91a" download="server"
+             version="1.9.4-1.3.6" url="packs/Block19/files/endertanks-1.9.4-1.3.6.jar" file="endertanks-1.9.4-1.3.6.jar" md5="d0b6f7e7a395a309dbf85e40f6254fd8" download="server"
              type="mods"
              website="http://tomkinsbros.blogspot.ca/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/endertanks?gameCategorySlug=mc-mods&amp;projectID=59613&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
              authors="ShetiPhian"
@@ -332,7 +332,7 @@
 
         <mod
              name="Forestry"
-             version="5.0.20.167" url="packs/Block19/files/forestry_1.9.4-5.0.20.167.jar" file="forestry_1.9.4-5.0.20.167.jar" md5="9d5c0d2ce39ef2e43e0e60757d30998c" download="server"
+             version="5.0.23.170" url="packs/Block19/files/forestry_1.9.4-5.0.23.170.jar" file="forestry_1.9.4-5.0.23.170.jar" md5="bbdeab4096ed9be24c5927220a4f8860" download="server"
              type="mods"
              website="http://forestry.sengir.net/"
              authors="SirSengir,mezz"
@@ -350,7 +350,7 @@
 
         <mod
              name="Advanced Generators"
-             version="0.9.20.1" url="packs/Block19/files/generators-0.9.20.1-mc1.9.4.jar" file="generators-0.9.20.1-mc1.9.4.jar" md5="184f9db85c8395eb15d0ee99020c024c" download="server"
+             version="0.9.20.2" url="packs/Block19/files/generators-0.9.20.2-mc1.9.4.jar" file="generators-0.9.20.2-mc1.9.4.jar" md5="c21259b70d29c25692bd14d065d9b76d" download="server"
              type="mods"
              website="http://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/advanced-generators?gameCategorySlug=mc-mods&amp;projectID=223622&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donat"
              authors="bdew"
@@ -386,7 +386,7 @@
 
         <mod
              name="Iron Chest"
-             version="1.9.4-6.0.145.787" url="packs/Block19/files/ironchest-1.9.4-6.0.145.787.jar" file="ironchest-1.9.4-6.0.145.787.jar" md5="a4fda8640a2a8da920c7b7447597b25c" download="server"
+             version="1.9.4-6.0.146.788" url="packs/Block19/files/ironchest-1.9.4-6.0.146.788.jar" file="ironchest-1.9.4-6.0.146.788.jar" md5="49a691326ccd14e99a10cd6102835d02" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/981855-"
              authors="cpw"
@@ -402,16 +402,14 @@
              description="Simple recipe and item helper."
              />
 
-<!--
         <mod
              name="Levels"
-             version="r3.0.5" url="packs/Block19/files/Levels-1.9.4-r3.0.5.jar" file="Levels-1.9.4-r3.0.5.jar" md5="f05763123581bf8105f62c5f3dbb2603" download="server"
+             version="r3.0.8" url="packs/Block19/files/Levels-1.9.4-r3.0.8.jar" file="Levels-1.9.4-r3.0.8.jar" md5="4f2125f80f69a0a3239c50cde8e93de9" download="server"
              type="mods"
              website="https://github.com/TheXFactor117/Levels" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/levels?gameCategorySlug=mc-mods&amp;projectID=235552&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=chipsoud%40hotmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:"
              authors="TheXFactor117"
              description="A new, innovative leveling mod, focused around leveling up weapons to gain unique boosts."
              />
--->
 
         <mod
              name="LunatriusCore"
@@ -478,7 +476,7 @@
 
         <mod
              name="Multi-Storage"
-             version="1.9.0-1.1.0" url="packs/Block19/files/multistorage-1.9.4-1.1.2.jar" file="multistorage-1.9.4-1.1.2.jar" md5="1f8c45fa739d3ff7320002094579310a" download="server"
+             version="1.9.4-1.1.3" url="packs/Block19/files/multistorage-1.9.4-1.1.3.jar" file="multistorage-1.9.4-1.1.3.jar" md5="f43b8798291df9859b54d02070d9e7f5" download="server"
              type="mods"
              website="http://tomkinsbros.blogspot.ca/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/multistorage?gameCategorySlug=mc-mods&amp;projectID=244864&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG"
              authors="ShetiPhian"
@@ -541,7 +539,7 @@
 
         <mod
              name="Platforms"
-             version="1.9.4-1.1.3" url="packs/Block19/files/platforms-1.9.4-1.1.3.jar" file="platforms-1.9.4-1.1.3.jar" md5="276cc0377d5547eed4147f15c063e7a8" download="server"
+             version="1.9.4-1.1.4" url="packs/Block19/files/platforms-1.9.4-1.1.4.jar" file="platforms-1.9.4-1.1.4.jar" md5="a09364a81b2fc7acd74882f48585fd02" download="server"
              type="mods"
              website="http://tomkinsbros.blogspot.ca/p/platforms.html" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/platforms?gameCategorySlug=mc-mods&amp;projectID=244786&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.tomkins%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gi"
              authors="ShetiPhian"
@@ -550,7 +548,7 @@
 
         <mod
              name="Pressure Pipes"
-             version="1.3.1.1" url="packs/Block19/files/pressure-1.3.1.1-mc1.9.4.jar" file="pressure-1.3.1.1-mc1.9.4.jar" md5="fb9a9bdafcdfc859357ec835ee758e47" download="server"
+             version="1.3.1.2" url="packs/Block19/files/pressure-1.3.1.2-mc1.9.4.jar" file="pressure-1.3.1.2-mc1.9.4.jar" md5="7b595be0de2ebd8af7724ca2ba0cd2d3" download="server"
              type="mods"
              website="https://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pressure-pipes?gameCategorySlug=mc-mods&amp;projectID=221214&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
              authors="bdew"
@@ -577,7 +575,7 @@
 
         <mod
              name="Quark"
-             version="beta-28" url="packs/Block19/files/Quark-beta-28.jar" file="Quark-beta-28.jar" md5="6e7e6956966757d63be17e7fd749efbd" download="server"
+             version="beta-29" url="packs/Block19/files/Quark-beta-29.jar" file="Quark-beta-29.jar" md5="532f75c25260f1725aea916e5264404f" download="server"
              type="mods"
              website="http://www.vazkii.us"
              authors="Vazkii,wiiv"
@@ -595,7 +593,7 @@
 
         <mod
              name="Refined Storage"
-             version="0.7.16" url="packs/Block19/files/refinedstorage-0.7.16.jar" file="refinedstorage-0.7.16.jar" md5="82d6f0d4de45ca7ae08d0e40657f2ac4" download="server"
+             version="0.7.19" url="packs/Block19/files/refinedstorage-0.7.19.jar" file="refinedstorage-0.7.19.jar" md5="b781a1e6510bd701beef2188e319eba3" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/243076/"
              authors="Refined Storage contributors"
@@ -613,7 +611,7 @@
 
         <mod
              name="RFTools"
-             version="1.9.4-4.64" url="packs/Block19/files/rftools-1.9.4-4.64.jar" file="rftools-1.9.4-4.64.jar" md5="d84295aa2ae918686ca0abbd242f7df7" download="server"
+             version="1.9.4-4.66" url="packs/Block19/files/rftools-1.9.4-4.66.jar" file="rftools-1.9.4-4.66.jar" md5="4916c3c2cf4f556cedd367b257523271" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/224641/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateC"
              authors="McJty"
@@ -622,7 +620,7 @@
 
         <mod
              name="Roguelike Dungeons"
-             version="1.5.2" url="packs/Block19/files/RoguelikeDungeons-1.9.4-1.5.2.jar" file="RoguelikeDungeons-1.9.4-1.5.2.jar" md5="7c61db8090d6d2ca8b755a21973982dc" download="server"
+             version="1.5.3" url="packs/Block19/files/RoguelikeDungeons-1.9.4-1.5.3.jar" file="RoguelikeDungeons-1.9.4-1.5.3.jar" md5="3c735440d164eb5754f77fea7bddf3f1" download="server"
              type="mods"
              website="https://github.com/Greymerk/minecraft-roguelike"
              authors="Greymerk"
@@ -669,7 +667,7 @@
 
         <mod
              name="Storage Drawers"
-             version="1.9-3.1.8" url="packs/Block19/files/StorageDrawers-1.9-3.1.8.jar" file="StorageDrawers-1.9-3.1.8.jar" md5="1caa1de03e71c50b240cae425d70ccdc" download="server"
+             version="1.9.4-3.1.10" url="packs/Block19/files/StorageDrawers-1.9.4-3.1.10.jar" file="StorageDrawers-1.9.4-3.1.10.jar" md5="5e07bf4f86c24b6ba43c778496e5a706" download="server"
              type="mods"
              website="http://www.jaquadro.com/"
              authors="jaquadro"
@@ -687,7 +685,7 @@
 
         <mod
              name="Tinkers&apos; Construct"
-             version="1.9.4-2.3.2" url="packs/Block19/files/TConstruct-1.9.4-2.3.2.jar" file="TConstruct-1.9.4-2.3.2.jar" md5="497a48638ca8a69b059ce4a6fb88ed68" download="server"
+             version="1.9.4-2.3.3" url="packs/Block19/files/TConstruct-1.9.4-2.3.3.jar" file="TConstruct-1.9.4-2.3.3.jar" md5="66b108edf111c5f68640e146e480fb26" download="server"
              type="mods"
              website="https://github.com/SlimeKnights/TinkersConstruct" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=GKGVLK75MTPUN&amp;item_name=Tinkers+Construct+(from+curseforge.com)&amp;cmd=_s-xclick"
              authors="boni,KnightMiner"
@@ -705,7 +703,7 @@
 
         <mod
              name="The One Probe"
-             version="1.9.4-1.0.10" url="packs/Block19/files/theoneprobe-1.9.4-1.0.10.jar" file="theoneprobe-1.9.4-1.0.10.jar" md5="95c66db732accf730f623b129d2653df" download="server"
+             version="1.9.4-1.0.11" url="packs/Block19/files/theoneprobe-1.9.4-1.0.11.jar" file="theoneprobe-1.9.4-1.0.11.jar" md5="924dae1354a25c8c74b7601417e3bcdf" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/245211/"
              authors="McJty"
@@ -714,7 +712,7 @@
 
         <mod
              name="TIS-3D"
-             version="0.9.0.5" url="packs/Block19/files/TIS-3D-MC1.9.4-0.9.0.5.jar" file="TIS-3D-MC1.9.4-0.9.0.5.jar" md5="0e64b49e4b777c5871a6183fb8c173dd" download="server"
+             version="0.9.0.6" url="packs/Block19/files/TIS-3D-MC1.9.4-0.9.0.6.jar" file="TIS-3D-MC1.9.4-0.9.0.6.jar" md5="32f18e4ecfba9eb6851513c03f097012" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/238603/"
              authors="Sangar"
@@ -723,7 +721,7 @@
 
         <mod
              name="Totemic"
-             version="1.9.4-0.7.5" url="packs/Block19/files/Totemic-1.9.4-0.7.5.jar" file="Totemic-1.9.4-0.7.5.jar" md5="a424907ef06787f8de6f3aac61e12dba" download="server"
+             version="1.9.4-0.7.6" url="packs/Block19/files/Totemic-1.9.4-0.7.6.jar" file="Totemic-1.9.4-0.7.6.jar" md5="0ebd7ba5f7914685e716822b6e65a544" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/2367915-"
              authors="Pokefenn,ljfa"
@@ -815,7 +813,7 @@
 
         <mod
              name="Block Drops"
-             version="1.9.4-1.0.3" url="packs/Block19/files/BlockDrops-1.9.4-1.0.3.jar" file="BlockDrops-1.9.4-1.0.3.jar" md5="9fa44157dd8b922d58d3565274b47edf" download="server"
+             version="1.9.4-1.0.4" url="packs/Block19/files/BlockDrops-1.9.4-1.0.4.jar" file="BlockDrops-1.9.4-1.0.4.jar" md5="53a1ed3d12ae188bdf923f106d838d62" download="server"
              type="mods" optional="yes" server="no"
              website="http://www.curseforge.com/projects/244181/"
              authors="MrRiegel"
@@ -851,7 +849,7 @@
 
         <mod
              name="Just Enough Resources"
-             version="0.4.6.38" url="packs/Block19/files/JustEnoughResources-1.9.4-0.4.6.38.jar" file="JustEnoughResources-1.9.4-0.4.6.38.jar" md5="ea931ecd49e223e783481fef759afed3" download="server"
+             version="0.4.6.39" url="packs/Block19/files/JustEnoughResources-1.9.4-0.4.6.39.jar" file="JustEnoughResources-1.9.4-0.4.6.39.jar" md5="09884986fb2bdc9063e0325a4ea27879" download="server"
              type="mods" optional="yes" server="no"
              website="http://www.curseforge.com/projects/240630/"
              authors="way2muchnoise"
