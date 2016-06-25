@@ -1,2 +1,6 @@
 ===Build a.1.0.0 Changelog===
 Initial Block 19 Build for 1.9.4
+
+===Build a.1.0.0 Changelog===
+Moved Spongeforge and Morpheus to server only
+
